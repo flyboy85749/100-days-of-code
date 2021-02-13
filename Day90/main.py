@@ -6,9 +6,9 @@ from twilio.rest import Client
 
 
 OWM_Endpoint = "https://api.openweathermap.org/data/2.5/onecall"
-api_key = "18ae73b69e99c1fc53d8f9aa0fbee985"
-account_sid = "ACefc13f0984cd61257fa4af773950a8d9"
-auth_token = "fd0320deda8e1c96a2ef4791fe9f1502"
+api_key = ""
+account_sid = ""
+auth_token = ""
 
 weather_params = {
     "lat": "-22.906847",
